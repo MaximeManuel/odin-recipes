@@ -5,3 +5,16 @@ body {
 p {
     color: #996600;
 }
+
+.bei {
+    color: beige;
+}
+
+.rounder {
+    border-radius: 5%;
+    color: beige;
+}
+
+img {
+    border-radius: 5%;
+}
