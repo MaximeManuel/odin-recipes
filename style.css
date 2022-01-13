@@ -7,6 +7,18 @@ p {
 }
 
 
-img {
-    border-radius: 5%;
+.col {
+    background-color: beige;
+    opacity: 1;
+    transition: 00.3s;
 }
+
+.btn {
+    border-radius: 5%;
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+.btn:hover {opacity: 0.6 ;}
+  
+  .col:hover {opacity: 0.6}
