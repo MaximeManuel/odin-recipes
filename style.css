@@ -2,9 +2,6 @@ body {
     text-align: center;
 }
 
-p {
-    color: #996600;
-}
 
 
 .col {
@@ -22,3 +19,35 @@ p {
 .btn:hover {opacity: 0.6 ;}
   
   .col:hover {opacity: 0.6}
+
+  .box {
+    background-color: #cceeff;
+    width: 1000px;
+    padding: 20px;
+    margin: 10px;
+    margin-right: auto;
+    font-size: 20px;
+    font-family:monospace
+  }
+.box:hover { opacity: 0.6;}
+ 
+.box1 {
+    background-color: #cceeff;
+    width: 500px;
+    padding: 30px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    font-family:monospace
+  }
+.box1:hover{ opacity: 0.6;}
+
+.nextto{
+    background-color:  #cceeff;
+    display: inline-flex;
+    width: 30%;
+    padding: 50px;
+    text-align: center;
+    
+  }
